@@ -1,5 +1,7 @@
 <p align="center">
-　[![typograssy](https://typograssy.deno.dev/api?text=Web%20＆%20Illustration%20%20%20)](https://github.com/kawarimidoll/typograssy)
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img src="https://typograssy.deno.dev/api?text=Web%20%26%20Illustration%20%20%20" />
+  </a>
 </p>
 <p align="center">
   <img width="500" alt="ペットイラスト" src="https://github.com/user-attachments/assets/b8bc94b4-bd18-4011-888f-d0d6d703b332" />
