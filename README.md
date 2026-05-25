@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
-    <img src="https://typograssy.deno.dev/api?text=Web%20&%20Illustration%20%20%20" />
+    <img src="https://typograssy.deno.dev/api?text=Web%20%2526%20Illustration%20%20%20" />
   </a>
 </p>
 <p align="center">
